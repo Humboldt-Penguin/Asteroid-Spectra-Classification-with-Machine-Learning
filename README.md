@@ -7,4 +7,5 @@ This data science and machine learning project is about classifying asteroid tax
 # References
 
 [1] Url: http://smass.mit.edu/smass.html (Under 2)
+
 [2] Bus, Schelte J.; Compositional structure in the asteroid belt: results of a spectroscopic survey; Ph. D. Thesis; Massachusetts Institute of Technology, Dept. of Earth, Atmospheric, and Planetary Sciences; 1999
